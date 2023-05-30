@@ -1,0 +1,429 @@
+[
+   {
+      "Name": "1000 Friends of Wisconsin",
+      "Description": "Advocate and promote uses of land, air, and water that shape healthy communities.",
+      "Interests": "Transportation policy and funding, comprehensive planning, land use, water quality regulations, stewardship, DNR budget.",
+      "Terms": [
+         {
+            "Positions": [
+               {
+                  "Topic": "AB75",
+                  "Position": "Against",
+                  "Summary": "The applicability of a county shoreland zoning ordinance in a shoreland area annexed by, or incorporated as, a city or village"
+               },
+               {
+                  "Topic": "AB122",
+                  "Position": "Against",
+                  "Summary": "Changing the elements that must be included in a county development plan. (FE)"
+               },
+               {
+                  "Topic": "SB349",
+                  "Position": "Against",
+                  "Summary": "Local regulation of nonmetallic mining; local regulation of air quality; local regulation of water quality; local regulation of the use of explosives in mining, quarrying, and related activities; highway use contracts by local governments; and local regulation of borrow sites and material disposal sites for transportation projects of the Department of Transportation. (FE)"
+               }
+            ]
+         },
+         {
+            "Positions": [
+               {
+                  "Topic": "AB371",
+                  "Position": "Against",
+                  "Summary": "Comprehensive planning and making an appropriation. (FE)"
+               },
+               {
+                  "Topic": "SB266",
+                  "Position": "Against",
+                  "Summary": "Comprehensive planning and making an appropriation. (FE)"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "Name": "211 Wisconsin, Inc.",
+      "Description": "Local information and referral centers, community organizations and statewide programs.",
+      "Interests": "Issues affecting the quality and capacity to deliver information and referral services throughout the state. These may include but are not limited to matters affecting funding, and regulation of services.",
+      "Terms": [
+         {
+            "Positions": []
+         }
+      ]
+   },
+   {
+      "Name": "3M",
+      "Description": "Traffic control and materials. General corporate and business issues.",
+      "Interests": "Matters relating to transportation, law enforcement, safety, registration issues, registration plates, commerce, business, health, environment and taxation.",
+      "Terms": [
+         {
+            "Positions": [
+               {
+                  "Topic": "AB19",
+                  "Position": "For",
+                  "Summary": "Torts and personal injury trusts. (FE)"
+               },
+               {
+                  "Topic": "AB656",
+                  "Position": "Other",
+                  "Summary": "Notifications concerning the assertion of rights under a patent or pending patent and providing a penalty. (FE)"
+               },
+               {
+                  "Topic": "SB13",
+                  "Position": "For",
+                  "Summary": "Torts and personal injury trusts. (FE)"
+               },
+               {
+                  "Topic": "SB204",
+                  "Position": "Against",
+                  "Summary": "A single registration plate for motor vehicles registered with the Department of Transportation. (FE)"
+               },
+               {
+                  "Topic": "SB379",
+                  "Position": "For",
+                  "Summary": "Reviews of plans for building projects"
+               },
+               {
+                  "Topic": "SB498",
+                  "Position": "Other",
+                  "Summary": "Notifications concerning the assertion of rights under a patent or pending patent and providing a penalty. (FE)"
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "Name": "9to5",
+      "Description": "9to5's membership is comprised of directly affected women and allies of our work. Our financial support includes private foundations and earned income strategies.",
+      "Interests": "A core component of 9to5's work is related to work/family - protecting and expanding family leave. It is within this frame that we anticipate influencing policy during the legislative session.",
+      "Terms": [
+         {
+            "Positions": []
+         }
+      ]
+   },
+   {
+      "Name": "AAA Wisconsin",
+      "Description": "Users of Wisconsin roads, highways and interstates, including drivers and passengers",
+      "Interests": "Automobile transportation and travel-related matters, with attendant environmental quality and safety standards. Matters related to the safety, financing, environmental influence and insurance of automobile transportation and other forms of travel.",
+      "Terms": [
+         {
+            "Positions": [
+               {
+                  "Topic": "AB65",
+                  "Position": "For",
+                  "Summary": "Proof of motor vehicle liability insurance"
+               },
+               {
+                  "Topic": "AB367",
+                  "Position": "For",
+                  "Summary": "Statutes of limitation on claims involving property damage and on claims arising from a motor vehicle accident and covered by a motor vehicle insurance policy"
+               },
+               {
+                  "Topic": "AB369",
+                  "Position": "Other",
+                  "Summary": "Regulation of off-highway vehicles, creating an off-highway vehicle council, granting rule-making authority, requiring the exercise of rule-making authority, making appropriations, and providing penalties. (FE)"
+               },
+               {
+                  "Topic": "AB373",
+                  "Position": "For",
+                  "Summary": "Electronic delivery by property and casualty insurers of notices and documents"
+               },
+               {
+                  "Topic": "AB381",
+                  "Position": "Other",
+                  "Summary": "The definitions of an all-terrain vehicle and a utility terrain vehicle, restrictions on operating an all-terrain vehicle or a utility terrain vehicle on a roadway, and seating requirements for utility terrain vehicles"
+               },
+               {
+                  "Topic": "AB389",
+                  "Position": "Other",
+                  "Summary": "The maximum speed limit on freeways and expressways. (FE)"
+               },
+               {
+                  "Topic": "AB527",
+                  "Position": "Other",
+                  "Summary": "The operation of all-terrain vehicles and utility terrain vehicles on highways for the purpose of certain types of access and granting rule-making authority. (FE)"
+               },
+               {
+                  "Topic": "AB704",
+                  "Position": "Other",
+                  "Summary": "State highway funding and making an appropriation. (FE)"
+               },
+               {
+                  "Topic": "AB737",
+                  "Position": "Against",
+                  "Summary": "Requiring the Department of Transportation to contract for driver improvement course services, forwarding by courts of traffic violation convictions, and making an appropriation. (FE)"
+               },
+               {
+                  "Topic": "AB743",
+                  "Position": "Other",
+                  "Summary": "The operation of all-terrain vehicles and utility terrain vehicles on highway bridges. (FE)"
+               },
+               {
+                  "Topic": "AJR2",
+                  "Position": "For",
+                  "Summary": "Creation of a department of transportation, creation of a transportation fund, and deposit of funds into the transportation fund (second consideration)"
+               },
+               {
+                  "Topic": "SB56",
+                  "Position": "Other",
+                  "Summary": "Requiring a mandatory minimum sentence for causing bodily harm to another while driving while intoxicated and providing a penalty. (FE)"
+               },
+               {
+                  "Topic": "SB57",
+                  "Position": "Other",
+                  "Summary": "Requiring persons accused of violating traffic laws and ordinances related to driving while intoxicated to appear in person in court. (FE)"
+               },
+               {
+                  "Topic": "SB58",
+                  "Position": "Other",
+                  "Summary": "Penalties for driving a vehicle while under the influence of an intoxicant and providing a penalty. (FE)"
+               },
+               {
+                  "Topic": "SB59",
+                  "Position": "Other",
+                  "Summary": "Mandatory period of confinement for homicide by intoxicated use of a vehicle and providing a penalty. (FE)"
+               },
+               {
+                  "Topic": "SB60",
+                  "Position": "Other",
+                  "Summary": "Penalties for operating-while-intoxicated offenses and providing a penalty. (FE)"
+               },
+               {
+                  "Topic": "SB61",
+                  "Position": "Other",
+                  "Summary": "Seizure and forfeiture of motor vehicles used in certain operating-while-intoxicated offenses and providing a penalty. (FE)"
+               },
+               {
+                  "Topic": "SB62",
+                  "Position": "For",
+                  "Summary": "Proof of motor vehicle liability insurance"
+               },
+               {
+                  "Topic": "SB281",
+                  "Position": "Other",
+                  "Summary": "Statutes of limitation on claims involving property damage and on claims arising from a motor vehicle accident and covered by a motor vehicle insurance policy"
+               },
+               {
+                  "Topic": "SB292",
+                  "Position": "For",
+                  "Summary": "Electronic delivery by property and casualty insurers of notices and documents"
+               },
+               {
+                  "Topic": "SB304",
+                  "Position": "Other",
+                  "Summary": "Safety belts on certain school buses that are purchased or sold and making an appropriation. (FE)"
+               },
+               {
+                  "Topic": "SB307",
+                  "Position": "Other",
+                  "Summary": "Traffic violations resulting in harm to vulnerable highway users, driver education instruction, and providing a penalty. (FE)"
+               },
+               {
+                  "Topic": "SB539",
+                  "Position": "Other",
+                  "Summary": "State highway funding and making an appropriation. (FE)"
+               },
+               {
+                  "Topic": "SJR4",
+                  "Position": "For",
+                  "Summary": "Creation of a department of transportation, creation of a transportation fund, and deposit of funds into the transportation fund (second consideration)"
+               },
+               {
+                  "Topic": "SJR73",
+                  "Position": "For",
+                  "Summary": "Proclaiming distracted driving awareness day"
+               }
+            ]
+         },
+         {
+            "Positions": [
+               {
+                  "Topic": "AB27",
+                  "Position": "Against",
+                  "Summary": "The maximum speed limit on freeways and expressways. (FE)"
+               },
+               {
+                  "Topic": "AB171",
+                  "Position": "For",
+                  "Summary": "Operating a motor vehicle while wearing headphones or earbuds and providing a penalty"
+               },
+               {
+                  "Topic": "AB198",
+                  "Position": "For",
+                  "Summary": "The use of a cellular or other wireless telephone while driving a motor vehicle in a construction zone and providing a penalty"
+               },
+               {
+                  "Topic": "AB266",
+                  "Position": "For",
+                  "Summary": "Requiring or allowing persons who have committed certain offenses related to drunken driving to acquire an ignition interlock device in order to operate certain motor vehicles and providing a criminal penalty. (FE)"
+               },
+               {
+                  "Topic": "AB400",
+                  "Position": "For",
+                  "Summary": "Use of child safety restraint systems in motor vehicles. (FE)"
+               },
+               {
+                  "Topic": "AB432",
+                  "Position": "For",
+                  "Summary": "Revocation of operating privilege for certain offenses related to operating while intoxicated, operating after revocation, and providing a criminal penalty. (FE)"
+               },
+               {
+                  "Topic": "SB26",
+                  "Position": "Against",
+                  "Summary": "The maximum speed limit on freeways and expressways. (FE)"
+               },
+               {
+                  "Topic": "SB135",
+                  "Position": "For",
+                  "Summary": "The use of a cellular or other wireless telephone while driving a motor vehicle in a construction zone and providing a penalty"
+               },
+               {
+                  "Topic": "SB332",
+                  "Position": "For",
+                  "Summary": "Use of child safety restraint systems in motor vehicles. (FE)"
+               },
+               {
+                  "Topic": "SB669",
+                  "Position": "For",
+                  "Summary": "Warning lights on school buses. (FE)"
+               }
+            ]
+         },
+         {
+            "Positions": [
+               {
+                  "Topic": "AB196",
+                  "Position": "For",
+                  "Summary": "Possession of or use of a credit card scanner, providing civil immunity for sellers or distributors of fuel for scanners installed on pumps, and providing criminal penalties. (FE)"
+               },
+               {
+                  "Topic": "AB201",
+                  "Position": "For",
+                  "Summary": "Traffic violations requiring operating privilege suspension and attendance at a vehicle right-of-way course, increasing penalties for numerous traffic violations, and providing a penalty. (FE)"
+               },
+               {
+                  "Topic": "SB133",
+                  "Position": "For",
+                  "Summary": "Possession of or use of a credit card scanner, providing civil immunity for sellers or distributors of fuel for scanners installed on pumps, and providing criminal penalties. (FE)"
+               },
+               {
+                  "Topic": "SB189",
+                  "Position": "For",
+                  "Summary": "Traffic violations requiring operating privilege suspension and attendance at a vehicle right-of-way course, increasing penalties for numerous traffic violations, and providing a penalty. (FE)"
+               }
+            ]
+         },
+         {
+            "Positions": [
+               {
+                  "Topic": "AB18",
+                  "Position": "For",
+                  "Summary": "Penalties for offenses related to operating a vehicle while intoxicated and providing a penalty. (FE)"
+               },
+               {
+                  "Topic": "AB61",
+                  "Position": "For",
+                  "Summary": "Restricting a person's operating privilege to vehicles equipped with an ignition interlock device. (FE)"
+               },
+               {
+                  "Topic": "AB356",
+                  "Position": "For",
+                  "Summary": "Intoxicated operation of all-terrain vehicles, utility terrain vehicles, off-highway motorcycles, snowmobiles, and motorboats and providing a penalty. (FE)"
+               },
+               {
+                  "Topic": "AB746",
+                  "Position": "For",
+                  "Summary": "Traffic violations when emergency or roadside response vehicles are present and providing a penalty. (FE)"
+               },
+               {
+                  "Topic": "AJR123",
+                  "Position": "For",
+                  "Summary": "Celebrating the 100th anniversary of the American Automobile Association's School Safety Patrol Program"
+               },
+               {
+                  "Topic": "SB6",
+                  "Position": "For",
+                  "Summary": "Committing a fifth or sixth offense related to operating a vehicle while intoxicated and providing a penalty. (FE)"
+               },
+               {
+                  "Topic": "SB9",
+                  "Position": "For",
+                  "Summary": "Penalties for offenses related to operating a vehicle while intoxicated and providing a penalty. (FE)"
+               },
+               {
+                  "Topic": "SB58",
+                  "Position": "For",
+                  "Summary": "Restricting a person's operating privilege to vehicles equipped with an ignition interlock device. (FE)"
+               },
+               {
+                  "Topic": "SB384",
+                  "Position": "For",
+                  "Summary": "Operating privilege of persons who have committed certain offenses related to drunken driving, occupational licenses, ignition interlock devices, and providing a penalty. (FE)"
+               },
+               {
+                  "Topic": "SB674",
+                  "Position": "For",
+                  "Summary": "Traffic violations when emergency or roadside response vehicles are present and providing a penalty. (FE)"
+               },
+               {
+                  "Topic": "SJR89",
+                  "Position": "For",
+                  "Summary": "Celebrating the 100th anniversary of the American Automobile Association's School Safety Patrol Program"
+               }
+            ]
+         },
+         {
+            "Positions": [
+               {
+                  "Topic": "AB20",
+                  "Position": "For",
+                  "Summary": "Motor vehicle instruction permit and probationary license eligibility and duration. (FE)"
+               },
+               {
+                  "Topic": "AB280",
+                  "Position": "For",
+                  "Summary": "Intoxicated operation of all-terrain vehicles, utility terrain vehicles, off-highway motorcycles, snowmobiles, and motorboats and providing a penalty. (FE)"
+               },
+               {
+                  "Topic": "AB297",
+                  "Position": "For",
+                  "Summary": "Traffic violations when emergency or roadside response vehicles are present and providing a penalty. (FE)"
+               },
+               {
+                  "Topic": "AB691",
+                  "Position": "For",
+                  "Summary": "Classification of motor vehicle operators as independent contractors or employees"
+               },
+               {
+                  "Topic": "SB15",
+                  "Position": "For",
+                  "Summary": "Motor vehicle instruction permit and probationary license eligibility and duration. (FE)"
+               },
+               {
+                  "Topic": "SB311",
+                  "Position": "For",
+                  "Summary": "Traffic violations when emergency or roadside response vehicles are present and providing a penalty. (FE)"
+               },
+               {
+                  "Topic": "SB703",
+                  "Position": "For",
+                  "Summary": "Classification of motor vehicle operators as independent contractors or employees"
+               }
+            ]
+         },
+         {
+            "Positions": [
+               {
+                  "Topic": "AB55",
+                  "Position": "For",
+                  "Summary": "Penalties for reckless driving and providing a penalty. (FE)"
+               },
+               {
+                  "Topic": "AB56",
+                  "Position": "For",
+                  "Summary": "Impoundment of vehicles used in certain reckless driving offenses"
+               }
+            ]
+         }
+      ]
+   }
+]
